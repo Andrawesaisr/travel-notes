@@ -1,0 +1,72 @@
+body{
+    padding-top:80px;
+    margin:0;
+}
+.nav--bar{
+    background-color: rgb(240, 76, 76);
+    display:flex;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    flex-direction: row;
+    color:white;
+   align-items: center;
+   justify-content: center;
+   overflow: hidden;
+    top:0;
+}
+.earth-pic{
+    width:55px;
+    border:none;
+    border-collapse: separate; 
+    overflow: hidden;
+    border-radius:10000px;
+   
+}
+.bar-header{
+    font-size: 23px;
+    padding-left: 10px;
+}
+.card--container{
+    display: flex;
+    align-items: center;
+    justify-content:center;  
+    flex-direction: row;
+    width:600px;
+    max-width: 100%;
+    padding-top:10px;
+    margin: auto;
+  
+}
+.card--pic{
+    width:250px;
+    height:400px;
+    border:none;
+    border-radius: 30px;
+    margin:0;
+    padding-right:10px
+}
+.card--pointer{
+    margin:0;
+    width:28px;
+    border:none;
+    border-radius:20px;
+    padding-right:10px;
+}
+.card--place{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+h3{
+    margin:0;
+    margin-right:10px;
+}
+h1{
+    margin:0;
+    padding-top:10px;
+}
+.card--details{
+    display:flex;
+    flex-direction: column;
+}
