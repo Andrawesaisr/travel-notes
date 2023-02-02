@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efc5f3c7.css",
+    "main.js": "/static/js/main.55f9a2cc.js",
+    "static/media/Mount-Fuji.png": "/static/media/Mount-Fuji.0f0518a51b57216e987e.png",
+    "static/media/earth.png": "/static/media/earth.c0c5f2edb1aa606326c6.png",
+    "index.html": "/index.html",
+    "main.efc5f3c7.css.map": "/static/css/main.efc5f3c7.css.map",
+    "main.55f9a2cc.js.map": "/static/js/main.55f9a2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc5f3c7.css",
+    "static/js/main.55f9a2cc.js"
+  ]
+}
